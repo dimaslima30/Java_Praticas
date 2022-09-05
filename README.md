@@ -1,2 +1,2 @@
 # Java_Praticas
-Desafios em Java
+Desafios Simples em Java - Principais Tópicos de Lógica de Programação
